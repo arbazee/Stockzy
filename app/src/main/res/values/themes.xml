@@ -15,12 +15,12 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+<!--    <style name="Theme.App.Starting" parent="Theme.SplashScreen">-->
 
-        <item name="windowSplashScreenBackground">@color/purple_700</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/s_logo</item>
-        <item name="windowSplashScreenAnimationDuration">1000</item>
-        <item name="postSplashScreenTheme">@style/Theme.Stockzy</item>
+<!--        <item name="windowSplashScreenBackground">@color/purple_700</item>-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/s_logo</item>-->
+<!--        <item name="windowSplashScreenAnimationDuration">1000</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.Stockzy</item>-->
 
-    </style>
+<!--    </style>-->
 </resources>
